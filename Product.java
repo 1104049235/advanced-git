@@ -6,8 +6,5 @@ public class Product {
 		System.out.print("myBranch");
         System.out.println("这是我回滚后新的分支改动");
         System.out.println("自己分支进行推演 rebase");
-        System.out.println("myc");
-        System.out.println("my1");
-        System.out.println("my2");
     }
 } 
